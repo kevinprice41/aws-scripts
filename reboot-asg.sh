@@ -1,5 +1,6 @@
 #!/bin/bash -ex
 
+
 export http_proxy=${PROXY}
 export https_proxy=${PROXY}
 export no_proxy=${NO_PROXY}
